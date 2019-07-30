@@ -1,5 +1,5 @@
 # Firehouse-0ptimus-Dem-Primary-July-2019
-This repo contains outputs from our Iowa, New Hampshire, and South Carolina Democratic Caucus/Primary Poll Conducted July 23-25, 2019.
+This repo contains outputs from our Iowa, New Hampshire, and South Carolina Democratic Caucus/Primary Poll conducted July 23-25, 2019.
 
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Dem-Primary-July-2019/blob/master/Firehouse_0ptimus_July_2019_Survey_Memo.pdf">Survey Memo</a>
